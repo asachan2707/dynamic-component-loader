@@ -1,4 +1,10 @@
-#Credit: https://angular.io/guide/dynamic-component-loader#dynamic-component-loader
+#Credit
+
+https://angular.io/guide/dynamic-component-loader#dynamic-component-loader
+
+#To make it PWA (Progressive web app)
+
+https://blog.angularindepth.com/build-a-progressive-web-app-with-angular-bf7d66744020
 
 # DynamicComponentLoader
 
